@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EndSems:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EndSems_jar</output-path>
+    <root id="archive" name="EndSems.jar">
+      <element id="module-output" name="EndSems" />
+    </root>
+  </artifact>
+</component>
